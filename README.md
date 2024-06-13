@@ -89,10 +89,11 @@ banco-solar/
 │   └── transferenciasController.js  # Controlador para las rutas de transferencias
 │
 ├── public/
-│   ├── assets/
-│   │   └── css/
-│   │       └── style.css  # Estilos personalizados
-│   └── index.html         # Interfaz de usuario
+│   ├── css/
+│   │   └── style.css  # Estilos personalizados
+│   ├── js/
+│   │   └── scripts.js  # Script principal de la app
+│   └── index.html   # Interfaz de usuario
 │
 ├── routes/
 │   ├── usuarios.js        # Rutas para usuarios
