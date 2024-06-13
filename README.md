@@ -88,6 +88,10 @@ banco-solar/
 │   ├── usuariosController.js  # Controlador para las rutas de usuarios
 │   └── transferenciasController.js  # Controlador para las rutas de transferencias
 │
+│├── models/
+│   ├── usuariosModel.js  # Modelo de usuarios
+│   └── transferenciasModel.js  # Modelo de transferencias
+│
 ├── public/
 │   ├── css/
 │   │   └── style.css  # Estilos personalizados
